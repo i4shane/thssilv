@@ -56,6 +56,7 @@ function NavBar() {
                 <Link
                   display={"flex"}
                   flexDir={"column"}
+                  href="/"
                   justifyItems={"center"}
                   alignItems={"center"}
                   _hover={{
@@ -105,6 +106,7 @@ function NavBar() {
                   display={"flex"}
                   flexDir={"column"}
                   justifyItems={"center"}
+                  href="/pricing"
                   alignItems={"center"}
                   _hover={{
                     color: "primary",
