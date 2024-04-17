@@ -127,7 +127,7 @@ function NavBar() {
                   isRound={true}
                   onClick={toggleColorMode}
                 />
-                <Link href="api/auth/login">
+                <Link href="">
                   <Button
                     display={{ base: "none", md: "block" }}
                     borderRadius={"50px"}
